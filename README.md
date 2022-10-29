@@ -1,7 +1,7 @@
 # Personal-Blogging-Website
 ## A personal blogging website which will have a markdown using nodeJS, express and mongoDB.
 
-to run the website type in terminal: "npm run devStart"
+to run the website, type in terminal: "npm run devStart"
 
 firt make sure that you install-
 npm init -y
